@@ -1,0 +1,1 @@
+test text to test text editor for git
