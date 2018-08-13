@@ -1,2 +1,3 @@
 test text to test text editor for git
 adding another sentence for furter testing
+adding a third line to this file
